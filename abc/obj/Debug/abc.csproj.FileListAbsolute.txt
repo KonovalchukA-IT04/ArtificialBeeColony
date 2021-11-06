@@ -1,0 +1,7 @@
+E:\studying\II course\III semestr\algorithms\lab_3_(bee_colony)\abc\abc\bin\Debug\abc.exe.config
+E:\studying\II course\III semestr\algorithms\lab_3_(bee_colony)\abc\abc\bin\Debug\abc.exe
+E:\studying\II course\III semestr\algorithms\lab_3_(bee_colony)\abc\abc\bin\Debug\abc.pdb
+E:\studying\II course\III semestr\algorithms\lab_3_(bee_colony)\abc\abc\obj\Debug\abc.csprojAssemblyReference.cache
+E:\studying\II course\III semestr\algorithms\lab_3_(bee_colony)\abc\abc\obj\Debug\abc.csproj.CoreCompileInputs.cache
+E:\studying\II course\III semestr\algorithms\lab_3_(bee_colony)\abc\abc\obj\Debug\abc.exe
+E:\studying\II course\III semestr\algorithms\lab_3_(bee_colony)\abc\abc\obj\Debug\abc.pdb
